@@ -3,7 +3,7 @@
     -> Ingrese el siguiente comando
         -> npx serve
 
-    Haciendo este procedimiento usted podra tener el proyecto en su servidor local, lo que le permitira navegar a traves de las paginas
+    Para abrir el proyecto en su servidor local, lo que le permitira navegar a traves de las paginas
 
 ## Como revisar si tengo node?
     -> Abra la terminal
